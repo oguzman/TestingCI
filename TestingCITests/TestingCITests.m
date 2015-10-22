@@ -17,7 +17,6 @@
 - (void)setUp {
     [super setUp];
     //ready to start writing test cases
-    //checking if integration is done automatically when commit
     // Put setup code here. This method is called before the invocation of each test method in the class.
 }
 
