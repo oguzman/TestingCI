@@ -4,7 +4,7 @@
 # use_frameworks!
 
 target 'TestingCI' do
-
+pod 'JGProgressHUD', '~> 1.2.6'
 end
 
 target 'TestingCITests' do

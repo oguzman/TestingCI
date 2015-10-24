@@ -4,7 +4,17 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>JGProgressHUD.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>OCMock.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-TestingCI.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -22,7 +32,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>26F5AFFD375DEBDBE00FB5CB262A0D96</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>4A2CAA839F2722C796C6F1DFDC806B92</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>556436A8B1CE70698A78428B19E298D7</key>
 		<dict>
 			<key>primary</key>
 			<true/>
