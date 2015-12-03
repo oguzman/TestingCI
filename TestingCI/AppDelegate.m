@@ -10,13 +10,11 @@
 #import <Fabric/Fabric.h>
 #import <Crashlytics/Crashlytics.h>
 
-
 @interface AppDelegate ()
 
 @end
 
 @implementation AppDelegate
-//let's check how travis-ci does...
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
