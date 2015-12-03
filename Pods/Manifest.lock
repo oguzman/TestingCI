@@ -1,12 +1,19 @@
 PODS:
+  - Crashlytics (3.4.1):
+    - Fabric (~> 1.6.0)
+  - Fabric (1.6.1)
   - JGProgressHUD (1.2.7)
   - OCMock (3.2)
 
 DEPENDENCIES:
+  - Crashlytics
+  - Fabric
   - JGProgressHUD (~> 1.2.6)
   - OCMock (~> 3.2)
 
 SPEC CHECKSUMS:
+  Crashlytics: 41574a245bc6ae10c55d57f385ebd2004e5bee05
+  Fabric: bf0ceb04e7c924090efc5f8c55e4fbcca189e0a0
   JGProgressHUD: a45c1d16adddf7e38092ce3f0d71d3955d2de2ec
   OCMock: 28def049ef47f996b515a8eeea958be7ccab2dbb
 

@@ -5,6 +5,8 @@
 
 target 'TestingCI' do
 pod 'JGProgressHUD', '~> 1.2.6'
+pod 'Fabric'
+pod 'Crashlytics'
 end
 
 target 'TestingCITests' do
