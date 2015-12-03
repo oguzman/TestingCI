@@ -255,6 +255,7 @@
 				TargetAttributes = {
 					C84EE0E91BD5703F002E1F36 = {
 						CreatedOnToolsVersion = 7.0.1;
+						DevelopmentTeam = C5R6T8J57B;
 					};
 					C84EE1021BD57041002E1F36 = {
 						CreatedOnToolsVersion = 7.0.1;
@@ -585,6 +586,7 @@
 			baseConfigurationReference = E48BB575CA12104154D10686 /* Pods-TestingCI.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = TestingCI/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.brightcoders.TestingCI;
@@ -597,6 +599,7 @@
 			baseConfigurationReference = DC2DD7B60D32D599683BBF4E /* Pods-TestingCI.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = TestingCI/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.brightcoders.TestingCI;
